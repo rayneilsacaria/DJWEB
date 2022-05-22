@@ -1,0 +1,26 @@
+body{
+	background-image: url("Music.jpg");
+	/* background-repeat: no-repeat; */
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-family: serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 1px solid #ffffff;
+    margin-top: 30px;
+    box-shadow:crimson;
+    padding-left: 1px;
+  }
+  p {
+      text-align: center;
+      color:rgb(255, 0, 0);
+      font-size: large;
+  }
+  
+canvas {
+    text-align:center;
+    text-transform: uppercase;
+}
